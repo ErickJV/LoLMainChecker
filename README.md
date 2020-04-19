@@ -1,6 +1,6 @@
 # League of Legends Checker
 
-A LoL Checker made in Python by ME, you just need to update the APIKey to work.
+A LoL Info Checker made in Python by ME, you just need to update the APIKey to work.
 
 How to get a APIKey? Here:
 https://developer.riotgames.com/
