@@ -42,7 +42,7 @@ def winrate(winloss: list):
 region = (str)(input('Digite a regiao: '))
 summonerName = (str)(input('Digite o Nick: '))
 CID = (str)(input('Digite o Numero do Campeao: '))
-APIKey = "RGAPI-032f2f80-71e5-472b-b15c-a6a6a43d8b44"
+APIKey = "RGAPI-########-####-####-####-############"
 win_loss = [0,0]
 
 responseJSON  = requestSummonerData(region, summonerName, APIKey)
