@@ -39,9 +39,9 @@ def winrate(winloss: list):
     return winloss[0] / (winloss[0] + winloss[1]) * 100
 
 
-region = (str)(input('Digite a regiao: '))
-summonerName = (str)(input('Digite o Nick: '))
-CID = (str)(input('Digite o Numero do Campeao: '))
+region = (str)(input('Region: '))
+summonerName = (str)(input('Summoner Name: '))
+CID = (str)(input('Champion ID: '))
 APIKey = "RGAPI-########-####-####-####-############"
 win_loss = [0,0]
 
